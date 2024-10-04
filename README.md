@@ -12,10 +12,10 @@ Soy un apasionado de la **mente humana** y del **desarrollo de soluciones**, dos
 
 ## 📈 Proyectos Destacados
 
-### [StockSmart](https://github.com/dCruzCoding/stocksmart.git)  *<small>(En proceso)</small>*
+### [StockSmart](https://github.com/dCruzCoding/stocksmart.git)     *<small><small>(En proceso)</small></small>*
 Solución integral diseñada con tecnología de Azure para gestionar las existencias de productos de compañías que comercializan a través de Internet.
 
-### [Laboratorios Microsoft para el AZ-204](https://github.com/dCruzCoding/MicrosoftLabs-AZ204.git).  *<small>(En proceso)</small>*
+### [Laboratorios Microsoft para el AZ-204](https://github.com/dCruzCoding/MicrosoftLabs-AZ204.git)     *<small><small>(En proceso)</small></small>*
 Proyectos para la formación en Microsoft Azure Cloud.
 
 
