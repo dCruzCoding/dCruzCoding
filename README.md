@@ -22,7 +22,7 @@ Proyectos para la formación en Microsoft Azure Cloud.
 ## 📫 ¿Cómo contactarme?
 
 - **Correo**: [dacruzjurado@gmail.com](mailto:dacruzjurado@gmail.com)
-- **LinkedIn**: [Daniel Cruz Jurado](www.linkedin.com/in/daniel-cruzjurado)
+- **LinkedIn**: [Daniel Cruz Jurado](https//www.linkedin.com/in/daniel-cruzjurado/)
 
 ---
 
