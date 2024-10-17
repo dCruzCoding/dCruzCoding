@@ -8,12 +8,10 @@ Soy un apasionado de la **mente humana** y del **desarrollo de soluciones**, dos
 ## 🛠️ Tecnologías y Herramientas
 
 ### Lenguajes de programación
-![C#](https://img.shields.io/badge/csharp%23-%2368217A.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%2368217A.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Bases de datos
-![SQL](https://img.shields.io/badge/sql-%23008080.svg?style=for-the-badge) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-00ADAD?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479a1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%23003b57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![NoSQL](https://img.shields.io/badge/NoSQL-%232E692E.svg?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%2359C256.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23008080.svg?style=for-the-badge) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-00ADAD?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479a1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%23003b57.svg?style=for-the-badge&logo=sqlite&logoColor=white)      ![NoSQL](https://img.shields.io/badge/NoSQL-%232E692E.svg?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%2359C256.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Analisis de datos
 ![Power BI Badge](https://img.shields.io/badge/Power%20BI-%23C2A13D.svg?style=for-the-badge&logo=powerbi&logoColor=white) ![SPSS](https://img.shields.io/badge/spss-%23ee4353.svg?style=for-the-badge&logo=spss&logoColor=white) ![R](https://img.shields.io/badge/r-%23425A7D.svg?style=for-the-badge&logo=r&logoColor=white)
