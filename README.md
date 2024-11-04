@@ -35,11 +35,13 @@ Solución integral diseñada con tecnología de Azure para gestionar las existen
 ### [Laboratorios Microsoft para el AZ-204](https://github.com/dCruzCoding/MicrosoftLabs-AZ204.git)     *(En proceso)*
 Proyectos para la formación en Microsoft Azure Cloud.
 
+### [PyPractice](https://github.com/dCruzCoding/PyPractice.git)     *(En proceso)*
+Apuntes sobre programación en Python y ejercicios para practicar.
 
 ## 📫 ¿Cómo contactarme?
 
 - **Correo**: [dacruzjurado@gmail.com](mailto:dacruzjurado@gmail.com)
-- **LinkedIn**: [Daniel Cruz Jurado](www.linkedin.com/in/daniel-cruzjurado)
+- **LinkedIn**: [Daniel Cruz Jurado](https://www.linkedin.com/in/daniel-cruzjurado)
 
 ---
 
