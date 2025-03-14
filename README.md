@@ -14,7 +14,8 @@ Soy un apasionado de la **mente humana** y del **desarrollo de soluciones**, dos
 ![SQL](https://img.shields.io/badge/sql-%23008080.svg?style=for-the-badge)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-00ADAD?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%234479a1.svg?style=for-the-badge&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%23003b57.svg?style=for-the-badge&logo=sqlite&logoColor=white)   ![NoSQL](https://img.shields.io/badge/NoSQL-%232E692E.svg?style=for-the-badge)![MongoDB](https://img.shields.io/badge/MongoDB-%2359C256.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Analisis de datos
-![Power BI Badge](https://img.shields.io/badge/Power%20BI-%23C2A13D.svg?style=for-the-badge&logo=powerbi&logoColor=white) ![SPSS](https://img.shields.io/badge/spss-%23ee4353.svg?style=for-the-badge&logo=spss&logoColor=white) ![R](https://img.shields.io/badge/r-%23425A7D.svg?style=for-the-badge&logo=r&logoColor=white)
+![Power BI Badge](https://img.shields.io/badge/Power%20BI-%23C2A13D.svg?style=for-the-badge&logo=powerbi&logoColor=white) ![SPSS](https://img.shields.io/badge/spss-%23ee4353.svg?style=for-the-badge&logo=spss&logoColor=white) ![R](https://img.shields.io/badge/r-%23425A7D.svg?style=for-the-badge&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 
 ### Power Platform
 ![PowerApps](https://img.shields.io/badge/Power%20Apps-%23D5006D.svg?style=for-the-badge&logo=powerapps&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-%230A64A4.svg?style=for-the-badge&logo=powerautomate&logoColor=white)
@@ -29,20 +30,23 @@ Soy un apasionado de la **mente humana** y del **desarrollo de soluciones**, dos
 
 ## 📈 Proyectos Destacados
 
-### [StockSmart](https://github.com/dCruzCoding/stocksmart.git)     *(En proceso)*
+### 🌿 [EcoSys](https://github.com/dCruzCoding/EcoSys.git)     *(V.2 en proceso)*
+**EcoSys** es un simulador de ecosistemas virtuales desarrollado en Python. El proyecto permite explorar la dinámica de poblaciones a través de dos modos de juego: **Supervivencia**, donde controlas a un individuo y debes sobrevivir el mayor tiempo posible, y **Simulación**, donde observas cómo evoluciona un ecosistema bajo condiciones definidas. Incluye funcionalidades avanzadas como interacciones entre individuos, reproducción, envejecimiento y un sistema de poderes para el modo Supervivencia. *(Actualmente en desarrollo: Versión 2 en proceso).*
+
+### 🐍 [PyPractice](https://github.com/dCruzCoding/PyPractice.git)     *(En proceso)*
+Apuntes sobre programación en Python y ejercicios para practicar.
+
+### 📦 [StockSmart](https://github.com/dCruzCoding/stocksmart.git)     *(En suspensión)*
 Solución integral diseñada con tecnología de Azure para gestionar las existencias de productos de compañías que comercializan a través de Internet.
 
-### [Laboratorios Microsoft para el AZ-204](https://github.com/dCruzCoding/MicrosoftLabs-AZ204.git)     *(En proceso)*
+### ☁️ [Laboratorios Microsoft para el AZ-204](https://github.com/dCruzCoding/MicrosoftLabs-AZ204.git)     *(En suspensión)*
 Proyectos para la formación en Microsoft Azure Cloud.
-
-### [PyPractice](https://github.com/dCruzCoding/PyPractice.git)     *(En proceso)*
-Apuntes sobre programación en Python y ejercicios para practicar.
 
 ## 📫 ¿Cómo contactarme?
 
-- **Correo**: [dacruzjurado@gmail.com](mailto:dacruzjurado@gmail.com)
+- **Correo**: [dcruzcoding@gmail.com](mailto:dcruzcoding@gmail.com)
 - **LinkedIn**: [Daniel Cruz Jurado](https://www.linkedin.com/in/daniel-cruzjurado)
 
 ---
 
-¡Gracias por visitar mi perfil! No dudes en conectarte si deseas charlar o proponerme algo.
+¡Gracias por visitar mi perfil! No dudes en conectarme si deseas charlar o proponer algo.
