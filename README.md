@@ -30,8 +30,8 @@ Soy un apasionado de la **mente humana** y del **desarrollo de soluciones**, dos
 
 ## 📈 Proyectos Destacados
 
-### 🌿 [EcoSys](https://github.com/dCruzCoding/EcoSys.git)     *(V.2 en proceso)*
-**EcoSys** es un simulador de ecosistemas virtuales desarrollado en Python. El proyecto permite explorar la dinámica de poblaciones a través de dos modos de juego: **Supervivencia**, donde controlas a un individuo y debes sobrevivir el mayor tiempo posible, y **Simulación**, donde observas cómo evoluciona un ecosistema bajo condiciones definidas. Incluye funcionalidades avanzadas como interacciones entre individuos, reproducción, envejecimiento y un sistema de poderes para el modo Supervivencia. *(Actualmente en desarrollo: Versión 2 en proceso).*
+### 🌿 [EcoSys](https://github.com/dCruzCoding/EcoSys.git)     *(V.2 released)*
+**EcoSys** es un simulador de ecosistemas virtuales desarrollado en Python. El proyecto permite explorar la dinámica de poblaciones a través de dos modos de juego: **Supervivencia**, donde controlas a un individuo y debes sobrevivir el mayor tiempo posible, y **Simulación**, donde observas cómo evoluciona un ecosistema bajo condiciones definidas. Incluye funcionalidades avanzadas como interacciones entre individuos, reproducción, envejecimiento y un sistema de poderes para el modo Supervivencia. *(Pendiente de futuras actualizciones).*
 
 ### 🐍 [PyPractice](https://github.com/dCruzCoding/PyPractice.git)     *(En proceso)*
 Apuntes sobre programación en Python y ejercicios para practicar.
