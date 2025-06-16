@@ -14,14 +14,19 @@ Soy un apasionado de la **mente humana** y del **desarrollo de soluciones**, dos
 ![SQL](https://img.shields.io/badge/sql-%23008080.svg?style=for-the-badge)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-00ADAD?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%234479a1.svg?style=for-the-badge&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%23003b57.svg?style=for-the-badge&logo=sqlite&logoColor=white)   ![NoSQL](https://img.shields.io/badge/NoSQL-%232E692E.svg?style=for-the-badge)![MongoDB](https://img.shields.io/badge/MongoDB-%2359C256.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Analisis de datos
-![Power BI Badge](https://img.shields.io/badge/Power%20BI-%23C2A13D.svg?style=for-the-badge&logo=powerbi&logoColor=white) ![SPSS](https://img.shields.io/badge/spss-%23ee4353.svg?style=for-the-badge&logo=spss&logoColor=white) ![R](https://img.shields.io/badge/r-%23425A7D.svg?style=for-the-badge&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
+![Power BI Badge](https://img.shields.io/badge/Power%20BI-%23C2A13D.svg?style=for-the-badge&logo=powerbi&logoColor=white) ![SPSS](https://img.shields.io/badge/spss-%23ee4353.svg?style=for-the-badge&logo=spss&logoColor=white) ![R](https://img.shields.io/badge/r-%23425A7D.svg?style=for-the-badge&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Power Platform
 ![PowerApps](https://img.shields.io/badge/Power%20Apps-%23D5006D.svg?style=for-the-badge&logo=powerapps&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-%230A64A4.svg?style=for-the-badge&logo=powerautomate&logoColor=white)
 
 ### Entornos cloud
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+
+### Machine Learning
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 
 ### Otras herramientas de interés
 ![.Net](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)![ASP.NET](https://img.shields.io/badge/ASP.NET-%234F3C61.svg?style=for-the-badge&logo=aspnetcore&logoColor=white)![ADO.NET](https://img.shields.io/badge/ADO.NET-%234C2578.svg?style=for-the-badge&logo=adonet&logoColor=white)![EntityFramework](https://img.shields.io/badge/Entity%20Framework-%237B3CC2.svg?style=for-the-badge&logo=ef&logoColor=white)   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)   
