@@ -54,6 +54,14 @@ Soy un apasionado de la **mente humana** y del **desarrollo de soluciones**, dos
 
 ## 📈 Proyectos Destacados
 
+### 📄☁️ [GCP-Resume-Summarizer](https://github.com/dCruzCoding/gcp-resume-summarizer) *(Demo funcional)*
+
+**GCP-Resume-Summarizer** es un proyecto de demostración que, utilizando infraestructura **Google Cloud Platform**, despliega una solución serverless que genera resúmenes automáticos de cv utilizando modelos de lenguaje preentrenado (**BART-Large-CNN**) conectando con Hugging Face API. 
+
+> ⚠️ Este proyecto tiene una finalidad **puramente educativa**: busca ilustrar cómo se integran distintas herramientas de GCP.
+> Por ello, se han aceptado limitaciones importantes del modelo de resumen. 
+> **No se recomienda su uso en entornos reales.**
+
 ### 🩺🥗 [NutriSynthCare](https://github.com/dCruzCoding/NutriSynthCare.git) *(V.1 released)*
 **NutriSynthCare** es un proyecto de generación, unión e imputación de **bases de datos sintéticas** orientadas al estudio del riesgo cardiovascular y la diabetes, con un **enfoque clínico-preventivo**. Además del procesamiento de datos, se incluyen funcionalidades para generar **recomendaciones alimenticias personalizadas** basadas en **ontologías de nutrición y salud**.
 
@@ -62,8 +70,10 @@ Soy un apasionado de la **mente humana** y del **desarrollo de soluciones**, dos
 🔗 Desarrollado en colaboración con [Anibal García](https://github.com/Aniballll).  
 📊 Contiene múltiples notebooks documentados, bases de datos generadas e informes de referencias científicas.
 
-### 🌿 [EcoSys](https://github.com/dCruzCoding/EcoSys.git)     *(V.2 released)*
-**EcoSys** es un simulador de ecosistemas virtuales desarrollado en Python. El proyecto permite explorar la dinámica de poblaciones a través de dos modos de juego: **Supervivencia**, donde controlas a un individuo y debes sobrevivir el mayor tiempo posible, y **Simulación**, donde observas cómo evoluciona un ecosistema bajo condiciones definidas. Incluye funcionalidades avanzadas como interacciones entre individuos, reproducción, envejecimiento y un sistema de poderes para el modo Supervivencia. *(Pendiente de futuras actualizciones).*
+### 🕹️🌿 [EcoSys](https://github.com/dCruzCoding/EcoSys.git)     *(V.2 released)*
+**EcoSys** es una pequeña simulación visual de ecosistemas desarrollada en Python con Pygame. El proyecto permite experimentar con dinámicas básicas de población mediante dos modos de juego: **Supervivencia**, donde controlas a un individuo y debes sobrevivir el mayor tiempo posible, y **Simulación**, donde simplemente observas cómo evoluciona el ecosistema bajo ciertas condiciones iniciales.
+
+Incluye elementos como reproducción, envejecimiento, conflictos entre individuos y un sistema de poderes en el modo Supervivencia. Aunque sencillo, EcoSys permite visualizar de forma entretenida cómo unas pocas reglas pueden dar lugar a comportamientos emergentes.
 
 ### 🐍 [PyPractice](https://github.com/dCruzCoding/PyPractice.git)     *(En proceso)*
 Apuntes sobre programación en Python y ejercicios para practicar.
