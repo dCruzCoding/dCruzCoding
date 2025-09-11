@@ -25,7 +25,7 @@ Soy un apasionado de la **mente humana** y del **desarrollo de soluciones**, dos
 ![PowerApps](https://img.shields.io/badge/Power%20Apps-%23D5006D.svg?style=for-the-badge&logo=powerapps&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-%230A64A4.svg?style=for-the-badge&logo=powerautomate&logoColor=white)
 
 ### ☁️ Cloud y DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### 🧠 Machine Learning & Deep Learning
 
@@ -53,6 +53,17 @@ Soy un apasionado de la **mente humana** y del **desarrollo de soluciones**, dos
 
 
 ## 📈 Proyectos Destacados
+
+
+
+### 🔮🤖 [La Recordadora de Neville](https://github.com/dCruzCoding/laRecordadora_deNeville) *(V.1.6 released)*
+
+**La Recordadora de Neville** es un bot de Telegram robusto y con estado, diseñado para gestionar recordatorios de forma conversacional. Inspirado en el universo de Harry Potter, el bot adopta la personalidad severa pero encantadora de Augusta Longbottom para interactuar con el usuario, creando una experiencia completa.
+
+La versión actual (v.1.6) está desplegada en **Render** y utiliza una arquitectura diseñada para la fiabilidad, combinando **python-telegram-bot**, un planificador de tareas persistente (`APScheduler` con **SQLite**) y un micro-servidor **Flask** para 'health checks' (mantenido por **UptimeRobot**).
+
+🔜 La hoja de ruta contempla su migración a un entorno de producción más avanzado, externalizando la base de datos a un servicio gestionado (ej. **PostgreSQL**) y desplegando la infraestructura en **Google Cloud Platform (GCP)**.
+
 
 ### 📄☁️ [GCP-Resume-Summarizer](https://github.com/dCruzCoding/gcp-resume-summarizer) *(Demo funcional)*
 
@@ -92,3 +103,10 @@ Proyectos para la formación en Microsoft Azure Cloud.
 ---
 
 ¡Gracias por visitar mi perfil! No dudes en conectarme si deseas charlar o proponer algo.
+
+
+
+
+
+
+
