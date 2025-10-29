@@ -4,7 +4,8 @@
 
 Soy un apasionado de la **mente humana** y del **desarrollo de soluciones**, dos áreas donde entender el **procesamiento de la información** es esencial. Mi **perfil híbrido** me permite combinar disciplinas, que se retroalimentan entre sí, impulsando con **creatividad** y **dedicación** proyectos del sector **tecnológico** y/o **neurocientífico**.
 
-[📄 Curriculum Vitae](./CV_DanielCruz.pdf)
+[📄 Curriculum Vitae](./CV_DanielCruzJurado.pdf)
+[📄 CV English Version](./CV_DanielCJ_englishversion.pdf)
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -39,6 +40,7 @@ Soy un apasionado de la **mente humana** y del **desarrollo de soluciones**, dos
 ![Transact-SQL](https://img.shields.io/badge/Transact--SQL-%2300ADAD.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479a1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%23003b57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-%232E692E.svg?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2359C256.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -91,13 +93,13 @@ Soy un apasionado de la **mente humana** y del **desarrollo de soluciones**, dos
 
 
 
-### 🔮🤖 [La Recordadora de Neville](https://github.com/dCruzCoding/laRecordadora_deNeville) *(V.1.6 released)*
+### 🔮🤖 [La Recordadora de Neville](https://github.com/dCruzCoding/laRecordadora_deNeville) *(V.1.7 released)*
 
 **La Recordadora de Neville** es un bot de Telegram robusto y con estado, diseñado para gestionar recordatorios de forma conversacional. Inspirado en el universo de Harry Potter, el bot adopta la personalidad severa pero encantadora de Augusta Longbottom para interactuar con el usuario, creando una experiencia completa.
 
-La versión actual (v.1.6) está desplegada en **Render** y utiliza una arquitectura diseñada para la fiabilidad, combinando **python-telegram-bot**, un planificador de tareas persistente (`APScheduler` con **SQLite**) y un micro-servidor **Flask** para 'health checks' (mantenido por **UptimeRobot**).
+La versión actual (v1.7) **migra toda la persistencia de datos desde archivos locales SQLite a una base de datos Supabase (PostgreSQL)** en la nube. Esto incluye tanto los recordatorios de los usuarios como las tareas programadas del planificador (`APScheduler`), garantizando una persistencia total. El despliegue se mantiene en **Render**, utilizando un micro-servidor **Flask** para 'health checks' (monitorizado 24/7 por **UptimeRobot**).
 
-🔜 La hoja de ruta contempla su migración a un entorno de producción más avanzado, externalizando la base de datos a un servicio gestionado (ej. **PostgreSQL**) y desplegando la infraestructura en **Google Cloud Platform (GCP)**.
+🔜 La hoja de ruta se centra en la optimización del alojamiento y en nuevas funcionalidades. Se explorará la migración de Render a **Fly.io**, una arquitectura ideal para bots con estado. Esta alternativa se considera después de descartar plataformas *serverless* (como GCP Cloud Functions) por su incompatibilidad fundamental con los `ConversationHandlers` y el `APScheduler` del bot.
 
 
 ### 📄☁️ [GCP-Resume-Summarizer](https://github.com/dCruzCoding/gcp-resume-summarizer) *(Demo funcional)*
